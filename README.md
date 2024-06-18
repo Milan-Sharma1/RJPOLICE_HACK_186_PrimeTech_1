@@ -37,6 +37,3 @@ This project is currently deployed and accessible at https://rajasthanpolicefeed
 
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request for review.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
