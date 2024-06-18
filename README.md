@@ -31,7 +31,7 @@ Welcome to the Rajasthan Police Feedback System, developed for the Rajasthan Pol
 
 ## Deployment
 
-This project is currently deployed and accessible at (https://rajasthanpolicefeedback.000webhostapp.com/).
+This project is currently deployed and accessible at https://rajasthanpolicefeedback.000webhostapp.com/.
 
 ## Contributing
 
