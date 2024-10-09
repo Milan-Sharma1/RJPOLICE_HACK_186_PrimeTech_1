@@ -29,10 +29,6 @@ Welcome to the Rajasthan Police Feedback System, developed for the Rajasthan Pol
    - Authorized administrators log in securely via authenticated sessions to access the dashboard.
    - The dashboard offers detailed analytics and graphical representations based on aggregated user feedback, facilitating actionable insights and operational enhancements.
 
-## Deployment
-
-This project is currently deployed and accessible at https://rajasthanpolicefeedback.000webhostapp.com/.
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request for review.
